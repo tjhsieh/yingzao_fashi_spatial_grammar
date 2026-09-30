@@ -8,4 +8,5 @@ _Authors:_ Hsieh
 
 **Web3D Repository Page** for Yingzao Fashi
 
-https://github.com/tjhsieh/yingzao_fashi_spatial_grammar/
+[[https://tjhsieh.github.io/yingzaofashi/]([https://github.com/tjhsieh/yingzao_fashi_spatial_grammar/]
+
