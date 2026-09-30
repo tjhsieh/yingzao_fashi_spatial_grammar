@@ -8,4 +8,4 @@ _Authors:_ Hsieh
 
 **Web3D Repository Page** for Yingzao Fashi
 
-[https://tjhsieh.github.io/yingzaofashi/](https://tjhsieh.github.io/yingzaofashi/)
+[https://github.com/tjhsieh/yingzaofashi/](https://github.como/tjhsieh/yingzaofashi/)
