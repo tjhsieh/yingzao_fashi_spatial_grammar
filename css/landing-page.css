@@ -35,13 +35,13 @@ h6 {
     padding-bottom: 0px;
     text-align: center;
     background: url(../imgs/intro-bg.jpg) no-repeat center center;
-    background-size: 100% 100%;
+    background-size: 60%;
 }
 
 .intro-message {
     position: relative;
     padding-top: 0%;
-	padding-bottom: 30%;
+	padding-bottom: 16%;
 }
 
 .intro-message > h1 {
